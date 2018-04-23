@@ -4,7 +4,9 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+using Mathjax
+
+$$ a^2 + b^2 = c^2 $$
 
 [Link to jayinlab page](./jayinlab.html).
 

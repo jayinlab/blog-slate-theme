@@ -2,8 +2,8 @@
 layout: default
 ---
 
-$$ a^2 + b^2 = c^2 $$
+Welcome to jayinlab page!
 
-abc
 
-[Link to help page](./posts/help.html).
+[2018 BOOK](./posts/2018_BOOK.html).
+[Link to TEST page](./posts/test.html).
