@@ -2,3 +2,7 @@ title: jayinlab
 description: private wiki
 google_analytics:
 theme: jekyll-theme-slate
+permalink: none
+collections:
+  wiki:
+    output: true

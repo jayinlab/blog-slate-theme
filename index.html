@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+Welcome to jayinlab page!
+<div>
+<!-- post -->
+<h2>Post</h2>
+
+{% for post in site.posts limit:5 %}  
+  <li>
+    <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+  </li>
+{% endfor %}  
+<!-- wiki -->
+
+<h2>Wiki</h2>
+
+{% for item in site.wiki %}
+  <li>
+  <a href="{{ item.url }}">{{ item.title }}</a>
+  </li>
+{% endfor %}
+</div>
