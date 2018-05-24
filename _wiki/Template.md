@@ -1,13 +1,15 @@
 ---
 layout  : default
-title   : test2 page
-summary : 20length summary
-created : 18.02.13
-update  : 18.02.15
+title   : Template title
+summary : Template summary
+created : 18.05.24
+update  : 18.05.24
 toc     : true
 ---
 * TOC
 {:toc}
+
+* * *
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 

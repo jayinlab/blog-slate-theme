@@ -1,8 +1,13 @@
+# Site settings
 title: jayinlab
 description: private wiki
-google_analytics:
 theme: jekyll-theme-slate
-permalink: none
+
+# Collections
 collections:
   wiki:
     output: true
+    permalink: /:collection/:path/
+
+# Service
+google_analytics:

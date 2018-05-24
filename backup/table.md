@@ -1,5 +1,5 @@
 ---
-title: "2018_BOOK"
+title: "Book main page"
 layout: default
 ---
 {:toc}
@@ -12,9 +12,5 @@ _yay_
 
 | date         | Name                                  | star    |
 |:-------------|:--------------------------------------|:--------|
-| 18.04.23     | [소프트웨어 장인](./Book_180423.html) | ★★★  |
 | ok           | good `oreos`                          | hmm     |
 | ok           | good `zoute` drop                     | yumm    |
-
-
-[back](../index.html)
