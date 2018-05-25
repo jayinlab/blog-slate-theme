@@ -1,6 +1,6 @@
 ---
 layout   : media
-category : book
+category : Book
 title    : 소프트웨어 장인
 summary  : 
 created  : 18.05.24

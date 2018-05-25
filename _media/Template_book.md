@@ -1,6 +1,6 @@
 ---
 layout   : media
-category : book
+category : Book
 title    : test page
 summary  : 
 created  : 18.05.20

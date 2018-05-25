@@ -24,7 +24,7 @@ Welcome to jayinlab page!
 {% for item in documents limit: 5 %}
   <li>
     <a href="{{ item.url }}">
-      {{ item.updated }}  {{ item.title }}  {{ item.summary }}
+      {{ item.updated }}  [{{ item.category }}]  {{ item.title }}  {{ item.summary }}
     </a>
   </li>
 {% endfor %}

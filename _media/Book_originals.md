@@ -1,6 +1,6 @@
 ---
 layout   : media
-category : book
+category : Book
 title    : 오리지널스
 summary  : 
 created  : 18.05.25
