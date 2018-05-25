@@ -3,6 +3,9 @@ title: jayinlab
 description: private wiki
 theme: jekyll-theme-slate
 
+# Post
+permalink: none
+
 # Collections
 collections:
   wiki:
@@ -12,5 +15,5 @@ collections:
     output: true
     permalink: /:collection/:path/
     
-# Service1
+# Service
 google_analytics:
