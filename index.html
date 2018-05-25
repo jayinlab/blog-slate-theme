@@ -11,7 +11,20 @@ Welcome to jayinlab page!
 {% for item in documents limit: 10 %}
   <li>
     <a href="{{ item.url }}">
-      {{ item.update }}  {{ item.title }} - {{ item.summary }}
+      {{ item.updated }}  {{ item.title }}
+    </a>
+  </li>
+{% endfor %}
+</div>
+
+<!-- post -->
+<div>
+<h2>Media</h2>
+{% assign documents = site.media | sort: 'updated' | reverse %}
+{% for item in documents limit: 5 %}
+  <li>
+    <a href="{{ item.url }}">
+      {{ item.updated }}  {{ item.title }}  {{ item.summary }}
     </a>
   </li>
 {% endfor %}

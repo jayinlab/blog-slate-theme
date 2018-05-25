@@ -1,10 +1,11 @@
 ---
-layout  : wiki
-title   : test wiki title
-summary : test wiki summary
-created : 18.05.24
-updated : 18.05.24
-toc     : true
+layout   : media
+category : book
+title    : test page
+summary  : 
+created  : 18.05.20
+updated  : 18.05.20
+toc      : true
 ---
 * TOC
 {:toc}

@@ -8,6 +8,9 @@ collections:
   wiki:
     output: true
     permalink: /:collection/:path/
-
-# Service
+  media:
+    output: true
+    permalink: /:collection/:path/
+    
+# Service1
 google_analytics:
