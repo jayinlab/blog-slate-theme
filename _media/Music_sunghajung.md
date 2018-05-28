@@ -15,7 +15,7 @@ toc      : true
 # Music
 
 ### Felicity
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mkRsz7didXI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% youtube https://youtu.be/mkRsz7didXI %}
 
 ### Flaming
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i459z2NAAXc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
