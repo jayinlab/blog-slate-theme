@@ -1,10 +1,11 @@
 ---
-layout  : wiki
-title   : youtube embed test
-summary : 
-created : 18.05.25
-updated : 18.05.25
-toc     : true
+layout   : wiki
+category : project euler / 
+title    : 'title'
+summary  : 
+created  : 18.06.10
+updated  : 18.06.01
+toc      : true
 ---
 * TOC
 {:toc}
