@@ -3,7 +3,7 @@ layout   : wiki
 category : project euler
 title    : Lexicographic permutations
 summary  : 
-created  : 18.06.10
+created  : 18.06.01
 updated  : 18.06.01
 toc      : true
 ---
@@ -81,9 +81,9 @@ void main(){
 }
 ```
 
-
-
 ## 풀이 2, 
+
+0123456789 에서 0 뒤에 오는 숫자의 경우의 수는 9! = 362880개 임을 알고 있다.
 
 
 ## Link
