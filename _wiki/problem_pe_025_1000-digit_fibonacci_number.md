@@ -1,7 +1,7 @@
 ---
 layout   : wiki
 category : Project euler
-title    : No.24 1000-digit fibonacci number
+title    : No.25 1000-digit fibonacci number
 summary  : 
 created  : 18.06.04
 updated  : 18.06.04
