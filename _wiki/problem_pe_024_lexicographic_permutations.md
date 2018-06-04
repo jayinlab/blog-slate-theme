@@ -7,14 +7,15 @@ created  : 18.06.01
 updated  : 18.06.04
 toc      : true
 ---
+
 * TOC
-{:toc}
+ {:toc}
 
 * * *
 
-## 문제
+# [Project Euler](https://projecteuler.net/) 24번 문제
 
-[Project euler](https://projecteuler.net/) 24번 문제
+## 문제
 
 > A permutation is an ordered arrangement of objects. For example, 3124 is one possible permutation of the digits 1, 2, 3 and 4. If all of the permutations are listed numerically or alphabetically, we call it lexicographic order. The lexicographic permutations of 0, 1 and 2 are:
 >
@@ -89,7 +90,7 @@ void main(){
 위의 과정을 반복하여 백만번째 수를 찾을 수 있다.
 
 1. 1000000 - n!를 계산했을 때의 숫자가 0보다 큰 경우에 count를 증가시킨다.
-2. std::vector<int> perm 에서 count 번째에 해당하는 숫자를 출력한다.
+2. perm 에서 count 번째에 해당하는 숫자를 출력한다.
 3. 이미 출력되었으니, count 번째에 해당하는 숫자를 지운다.
 4. 1~3을 10회 반복한다.
 
@@ -131,7 +132,6 @@ int main()
 }
 ```
 
-
 ## 풀이 3, Brute Force 2
 
 [std::next_permutation](http://en.cppreference.com/w/cpp/algorithm/next_permutation) 으로 무식하게 풀어낼 수 있다.
@@ -154,8 +154,6 @@ int main()
 }
 ```
 
-
-
 ## Link
 
-https://projecteuler.net/problem=24
+[Project euler problem 24](https://projecteuler.net/problem=24)

@@ -6,8 +6,9 @@ created : 18.05.24
 updated : 18.05.24
 toc     : true
 ---
+
 * TOC
-{:toc}
+ {:toc}
 
 * * *
 
