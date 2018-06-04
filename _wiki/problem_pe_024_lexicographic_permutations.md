@@ -1,7 +1,7 @@
 ---
 layout   : wiki
 category : Project euler
-title    : Lexicographic permutations
+title    : No.25 Lexicographic permutations
 summary  : 
 created  : 18.06.01
 updated  : 18.06.04

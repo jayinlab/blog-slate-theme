@@ -18,6 +18,7 @@ toc      : true
 ## Problem
 
 [24번, lexicographic permutations](/wiki/problem_pe_024_lexicographic_permutations)
+
 [25번, 1000-digit fibonacci number](/wiki/problem_pe_025_1000-digit_fibonacci_number)
 
 ## Link
