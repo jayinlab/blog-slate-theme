@@ -1,6 +1,6 @@
 ---
 layout   : wiki
-category : project euler
+category : Project euler
 title    : Lexicographic permutations
 summary  : 
 created  : 18.06.01
@@ -13,7 +13,7 @@ toc      : true
 
 * * *
 
-# [Project Euler](https://projecteuler.net/) 24번 문제
+# Project Euler 24번 문제
 
 ## 문제
 

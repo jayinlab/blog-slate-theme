@@ -1,8 +1,8 @@
 ---
 layout   : wiki
-category : project euler / 
-title    : 'title'
-summary  : 
+category : Test
+title    : Test
+summary  : Test
 created  : 18.05.01
 updated  : 18.05.01
 toc      : true
