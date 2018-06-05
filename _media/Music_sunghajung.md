@@ -4,35 +4,33 @@ category : Music
 title    : 정성하
 summary  : 
 created  : 18.05.25
-updated  : 18.05.25
+updated  : 18.06.05
 toc      : true
 ---
 * TOC
-{:toc}
+ {:toc}
 
 * * *
 
 # Music
 
+## Youtube
+
 ### Felicity
-<div class="vid-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/mkRsz7didXI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+
+{% include youtube.html id="mkRsz7didXI" %}
 
 ### Flaming
-<div class="vid-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i459z2NAAXc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+
+{% include youtube.html id="i459z2NAAXc" %}
 
 ### Gravity
-<div class="vid-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5bvlwo73UZY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+
+{% include youtube.html id="5bvlwo73UZY" %}
 
 ### Seventh #9
-<div class="vid-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tf55edvmPAw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+
+{% include youtube.html id="tf55edvmPAw" %}
 
 # Link
 

@@ -22,9 +22,7 @@ Marc-André Hamelin
 
 ### Hamelin Etude No. 3 after Pagannini-Liszt
 
-<div class="vid-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0fnIBXB5jLA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+{% include youtube.html id="0fnIBXB5jLA" %}
 
 ### Hamelin Etude No. 4 after Alkan
 
@@ -32,6 +30,4 @@ Marc-André Hamelin
 
 > This is midi, Hamelin would play it better...
 
-<div class="vid-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2x3Z6G7lUTs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+{% include youtube.html id="2x3Z6G7lUTs" %}

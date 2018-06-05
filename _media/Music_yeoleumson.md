@@ -15,6 +15,4 @@ toc      : true
 # Music
 
 ### Mozart - Piano Concerto No. 21, K.467
-<div class="vid-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/fNU-XAZjhzA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+{% include youtube.html id="fNU-XAZjhzA" %}
