@@ -8,7 +8,7 @@ updated  : 18.06.05
 toc      : true
 ---
 * TOC
-{:toc}
+ {:toc}
 
 * * *
 

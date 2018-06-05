@@ -37,4 +37,3 @@ toc      : true
 [Official website](http://www.sunghajung.com/)
 
 [Youtube channel](https://www.youtube.com/user/jwcfree)
-

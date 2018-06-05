@@ -4,7 +4,7 @@ layout: default
 ---
 {:toc}
 
-Jekyll에서 Youtube 영상 임베딩하기
+# Jekyll에서 Youtube 영상 임베딩하기
 
 ## Link
 
