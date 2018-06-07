@@ -21,7 +21,11 @@ toc      : true
 
 [25번, 1000-digit fibonacci number](/wiki/problem_pe_025_1000-digit_fibonacci_number)
 
-[26번, Reciprocal Cycles](/wiki/problem_pe_026_reciprocal_cycles)
+[26번, Reciprocal cycles](/wiki/problem_pe_026_reciprocal_cycles)
+
+[27번, Quadratic primes](/wiki/problem_pe_027_quadratic_primes)
+
+[28번, Number_spiral_diagonals)(/wiki/problem_pe_028_number_spiral_diagonals)
 
 ## Link
 
