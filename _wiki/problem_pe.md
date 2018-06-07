@@ -4,7 +4,7 @@ category : Category
 title    : Problem
 summary  : 
 created  : 18.06.04
-updated  : 18.06.04
+updated  : 18.06.07
 toc      : true
 ---
 
@@ -20,6 +20,8 @@ toc      : true
 [24번, lexicographic permutations](/wiki/problem_pe_024_lexicographic_permutations)
 
 [25번, 1000-digit fibonacci number](/wiki/problem_pe_025_1000-digit_fibonacci_number)
+
+[26번, Reciprocal Cycles](/wiki/problem_pe_026_reciprocal_cycles)
 
 ## Link
 
