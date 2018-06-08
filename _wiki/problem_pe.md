@@ -4,7 +4,7 @@ category : Category
 title    : Problem
 summary  : 
 created  : 18.06.04
-updated  : 18.06.07
+updated  : 18.06.08
 toc      : true
 ---
 
@@ -25,7 +25,9 @@ toc      : true
 
 [27번, Quadratic primes](/wiki/problem_pe_027_quadratic_primes)
 
-[28번, Number_spiral_diagonals)(/wiki/problem_pe_028_number_spiral_diagonals)
+[28번, Number_spiral_diagonals](/wiki/problem_pe_028_number_spiral_diagonals)
+
+[29번, Distinct powers](/wiki/problem_pe_029_distinct_powers)
 
 ## Link
 
