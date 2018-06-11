@@ -29,6 +29,8 @@ toc      : true
 
 [29번, Distinct powers](/wiki/problem_pe_029_distinct_powers)
 
+[30번, Digit fifth powers](/wiki/problem_pe_030_digit_fifth_powers)
+
 ## Link
 
 [Project Euler](https://projecteuler.net/)
