@@ -37,6 +37,8 @@ Problem Main page
 
 [30번, Digit fifth powers](/wiki/problem_pe_030_digit_fifth_powers)
 
+[31번, Coin sums](/wiki/problem_pe_031_coin_sums)
+
 ## Link
 
 [Project Euler](https://projecteuler.net/)
