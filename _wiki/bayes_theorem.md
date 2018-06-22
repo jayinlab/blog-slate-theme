@@ -31,15 +31,13 @@ $$ P(A|B) = \frac{P(B|A)P(A)}{P(B)} $$
 
 Q. 병원에서 정기검진을 했는데, 독감 양성 반응이 나왔다. 검사한 방법의 판독률은 99%라고 한다. 내가 진짜로 독감에 걸렸을 확률은?
 
-### Example 1 계산 연습
-
 A. 양성이 나왔을 때, 실제 독감에 걸린 확률을 구하는 문제.
 
 양성을 P(positive)로, 독감을 C(Cold) 로 쓰고 수식으로 쓰면 아래와 같다.
 
 $$ P(C\mid P) $$ 을 구하는 문제. 아래 식의 답을 구하는 것과 같다.
 
-$$ P(C\mid P) = \frac{P(P \mid C)P(C)}{P(P)} = \frac{P(P \mid C)P(C)}{P(P \mid C)P(C)+P(+\mid C')P(C')} $$
+$$ P(C\mid P) = \frac{P(P \mid C)P(C)}{P(P)} = \frac{P(P \mid C)P(C)}{P(P \mid C)P(C)+P(P \mid C')P(C')} $$
 
 병에 걸렸는데, 양성일 확률이 99%이다. 수식으로 쓰면 아래와 같다.
 
@@ -48,6 +46,8 @@ $$ P(P \mid C) = 0.99 $$
 동일한 원리로 병에 걸리지 않았는데, 양성이 나올 확률은 아래와 같다.
 
 $$ P(P \mid C') = 0.01 $$
+
+### Example 1 독감에 걸릴 확률이 낮은 장소
 
 남은건 독감에 걸릴 확률인데, 어느정도 임의의 숫자를 정할 수밖에 없는거 같다.
 
@@ -80,3 +80,9 @@ $$ \frac{P(P \mid C)P(C)}{P(P \mid C)P(C)+P(P \mid C')P(C')} = \frac{0.99*0.5}{0
 ## 중간 정리
 
 같은 문제라고 하더라도, 상황에 따라 계산 결과가 달라진다는 결론을 내릴 수 있겠다.
+
+이 '상황'을 일컬어 [Prior](https://en.wikipedia.org/wiki/Prior_probability)라고 말하는 것 같다. (맞게 이해했는지 모르겠다)
+
+## Link
+
+[Understand Bayesian Prior and Posterior Distributions](https://stats.stackexchange.com/questions/58564/help-me-understand-bayesian-prior-and-posterior-distributions)
