@@ -10,6 +10,8 @@ toc      : true
 
 Bayes' theorem
 
+$$ posterior \propto prior \times likelihood $$
+
 * * *
 
 * TOC
@@ -86,3 +88,5 @@ $$ \frac{P(P \mid C)P(C)}{P(P \mid C)P(C)+P(P \mid C')P(C')} = \frac{0.99*0.5}{0
 ## Link
 
 [Understand Bayesian Prior and Posterior Distributions](https://stats.stackexchange.com/questions/58564/help-me-understand-bayesian-prior-and-posterior-distributions)
+
+[베이지안 추론](https://brunch.co.kr/@chris-song/59)
