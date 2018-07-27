@@ -3,8 +3,8 @@ layout   : media
 category : Music
 title    : Claude Bolling
 summary  : 
-created  : 18.05.20
-updated  : 18.05.20
+created  : 18.07.27
+updated  : 18.07.27
 toc      : true
 ---
 

@@ -3,8 +3,8 @@ layout   : media
 category : Music
 title    : 조성진
 summary  : 
-created  : 18.07.12
-updated  : 18.07.12
+created  : 18.07.27
+updated  : 18.07.27
 toc      : true
 ---
 
