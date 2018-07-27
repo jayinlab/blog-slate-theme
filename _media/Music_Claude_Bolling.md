@@ -25,12 +25,12 @@ toc      : true
 
 ### Irlandaise
 
-{% include youtube.html id="v=sllIdERNDrA" %}
+{% include youtube.html id="sllIdERNDrA" %}
 
 ### Baroque and Blue
 
-{% include youtube.html id="v=w-_QOlCJUek" %}
+{% include youtube.html id="w-_QOlCJUek" %}
 
 ### Sentimentale
 
-{% include youtube.html id="v=1acIStlA1sQ" %}
+{% include youtube.html id="1acIStlA1sQ" %}

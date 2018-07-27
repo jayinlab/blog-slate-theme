@@ -29,6 +29,6 @@ Arcadi Volodos
 
 ### Turkish March
 
-{% include youtube.html id="v=0qG9PZNJI_k" %}
+{% include youtube.html id="0qG9PZNJI_k" %}
 
 ## Link

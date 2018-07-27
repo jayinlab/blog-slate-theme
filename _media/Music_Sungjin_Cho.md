@@ -25,16 +25,16 @@ toc      : true
 
 ### Liszt, Liebestraum
 
-{% include youtube.html id="v=Vu9sLK0y9Rk" %}
+{% include youtube.html id="Vu9sLK0y9Rk" %}
 
 ### Debussy, Claire de lune
 
-{% include youtube.html id="v=97_VJve7UVc" %}
+{% include youtube.html id="97_VJve7UVc" %}
 
 ### Chopin, 4 Ballades
 
-{% include youtube.html id="v=qb0Ebqe9JJo" %}
+{% include youtube.html id="qb0Ebqe9JJo" %}
 
 ### Beethoven, Pathetique
 
-{% include youtube.html id="v=QqGCViBslSk" %}
+{% include youtube.html id="QqGCViBslSk" %}
