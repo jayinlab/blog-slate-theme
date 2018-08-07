@@ -1,10 +1,10 @@
 ---
 layout   : media
-category : Music
-title    : ###
+category : Game
+title    : test page
 summary  : 
-created  : 18.##.##
-updated  : 18.##.##
+created  : 18.05.20
+updated  : 18.05.20
 toc      : true
 ---
 
@@ -19,7 +19,7 @@ toc      : true
 
 * * *
 
-# Music
+# Game
 
 ## Youtube
 
