@@ -4,7 +4,7 @@ category : Music
 title    : Kapustin
 summary  : 
 created  : 18.08.06
-updated  : 18.08.06
+updated  : 18.08.11
 toc      : true
 ---
 
@@ -64,3 +64,15 @@ BEST JAZZ PIANIST EVER
 ### Variations, Op 41
 
 {% include youtube.html id="mk10sUa0A-s" %}
+
+### Impromptu, Op 66, No. 2
+
+{% include youtube.html id="Yn9fTO7zp5Q" %}
+
+### Toccatina, Op 36
+
+{% include youtube.html id="b--1FHTgAQs" %}
+
+### Sinfonietta, Op 49, Mov. 4
+
+{% include youtube.html id="jSnY4X6DH_4" %}

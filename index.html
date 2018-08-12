@@ -22,7 +22,7 @@ layout: default
 <div>
 <h2>Media</h2>
 {% assign documents = site.media | sort: 'updated' | reverse %}
-{% for item in documents limit: 5 %}
+{% for item in documents limit: 10 %}
   <li>
     <a href="{{ item.url }}">
       [{{ item.category }}]  {{ item.title }}  {{ item.summary }}
