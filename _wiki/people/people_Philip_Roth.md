@@ -1,3 +1,13 @@
+---
+layout   : wiki
+category : People
+title    : Philip Roth
+summary  : 
+created  : 18.08.16
+updated  : 18.08.16
+toc      : true
+---
+
 # Philip Roth
 
 ## Quotes

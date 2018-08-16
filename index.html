@@ -2,31 +2,31 @@
 layout: default
 ---
 
-<h2> <a href="/wiki/index/">Wiki</a> / <a href="/media/index/">Media</a> </h2>
-
 <!-- wiki -->
 <div>
-<h2>Wiki</h2>
+  <h2>
+    <a href="/wiki/index/" style="color: #000000">Wiki</a>
+  </h2>
 
-{% assign documents = site.wiki | sort: 'updated' | reverse %}
-{% for item in documents limit: 10 %}
+  {% assign documents = site.wiki | sort: 'updated' | reverse %} {% for item in documents limit: 10 %}
   <li>
     <a href="{{ item.url }}">
-      [{{ item.category }}]  {{ item.title }}  {{ item.summary }}
+      [{{ item.category }}] {{ item.title }} {{ item.summary }}
     </a>
   </li>
-{% endfor %}
+  {% endfor %}
 </div>
 
 <!-- media -->
 <div>
-<h2>Media</h2>
-{% assign documents = site.media | sort: 'updated' | reverse %}
-{% for item in documents limit: 10 %}
+  <h2>
+    <a href="/media/index/" style="color: #000000">Media</a>
+  </h2>
+  {% assign documents = site.media | sort: 'updated' | reverse %} {% for item in documents limit: 10 %}
   <li>
     <a href="{{ item.url }}">
-      [{{ item.category }}]  {{ item.title }}  {{ item.summary }}
+      [{{ item.category }}] {{ item.title }} {{ item.summary }}
     </a>
   </li>
-{% endfor %}
+  {% endfor %}
 </div>
