@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h2> <a href="/wiki/index/">Wiki</a> / <a href="/media/index/">Media</a> / Posts </h2>
+<h2> <a href="/wiki/index/">Wiki</a> / <a href="/media/index/">Media</a> </h2>
 
 <!-- wiki -->
 <div>
@@ -27,17 +27,6 @@ layout: default
     <a href="{{ item.url }}">
       [{{ item.category }}]  {{ item.title }}  {{ item.summary }}
     </a>
-  </li>
-{% endfor %}
-</div>
-
-<!-- post -->
-<div>
-<h2>Post</h2>
-{% assign posts = site.posts | sort: 'updated' | reverse %}
-{% for post in posts limit: 5 %}
-  <li>
-    <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
   </li>
 {% endfor %}
 </div>
