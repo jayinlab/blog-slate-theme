@@ -3,8 +3,8 @@ layout   : media
 category : Game
 title    : Detroit Become Human
 summary  : 
-created  : 18.05.20
-updated  : 18.05.20
+created  : 18.08.22
+updated  : 18.08.22
 toc      : true
 ---
 
