@@ -15,7 +15,7 @@ category : index
 {% for item in documents %}
   <li>
     <a href="{{ item.url }}">
-      {{ item.created }} [{{ item.category }}]  {{ item.title }}  {{ item.summary }}
+      {{ item.updated }} [{{ item.category }}]  {{ item.title }}  {{ item.summary }}
     </a>
   </li>
 {% endfor %}
@@ -28,7 +28,7 @@ category : index
 {% for item in documents %}
   <li>
     <a href="{{ item.url }}">
-      {{ item.created }} [{{ item.category }}]  {{ item.title }}  {{ item.summary }}
+      {{ item.updated }} [{{ item.category }}]  {{ item.title }}  {{ item.summary }}
     </a>
   </li>
 {% endfor %}
@@ -41,7 +41,7 @@ category : index
 {% for item in documents %}
   <li>
     <a href="{{ item.url }}">
-      {{ item.created }} [{{ item.category }}]  {{ item.title }}  {{ item.summary }}
+      {{ item.updated }} [{{ item.category }}]  {{ item.title }}  {{ item.summary }}
     </a>
   </li>
 {% endfor %}
