@@ -4,7 +4,7 @@ category : Music
 title    : 조성진
 summary  : 
 created  : 18.07.27
-updated  : 18.08.03
+updated  : 18.09.02
 toc      : true
 ---
 
@@ -18,6 +18,10 @@ toc      : true
  {:toc}
 
 * * *
+
+## Quote
+
+> 배우는 건 끝이 없다고 생각해요. 저야 피아니스트로서는 시작 단계죠. 지금도 개인 레슨을 받아요. 마흔 살까지는 그래야 하지 않나 생각해요. 옆에서 전문적으로 들어주고 코치해주는 사람이 필요합니다. 1)
 
 ## Clips
 
@@ -56,3 +60,7 @@ Final stage of the Chopin Competition 2015
 ### Beethoven, Pathetique
 
 {% include youtube.html id="QqGCViBslSk" %}
+
+# Link
+
+1) [[Why] 굿바이, 쇼팽](https://m.news.naver.com/read.nhn?mode=LSD&sid1=103&oid=023&aid=0003396213)
