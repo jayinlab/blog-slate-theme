@@ -14,7 +14,7 @@ category : index
 {% assign documents = site.media | sort: 'updated' | reverse | where:"category","Music" %}
 {% for item in documents %}
   <li>
-    <a href="{{ item.url }}">
+    <a class="main" href="{{ item.url }}">
       {{ item.updated }} [{{ item.category }}]  {{ item.title }}  {{ item.summary }}
     </a>
   </li>
@@ -27,7 +27,7 @@ category : index
 {% assign documents = site.media | sort: 'updated' | reverse | where:"category","Book" %}
 {% for item in documents %}
   <li>
-    <a href="{{ item.url }}">
+    <a class="main" href="{{ item.url }}">
       {{ item.updated }} [{{ item.category }}]  {{ item.title }}  {{ item.summary }}
     </a>
   </li>
@@ -40,7 +40,7 @@ category : index
 {% assign documents = site.media | sort: 'updated' | reverse | where:"category","Docu" %}
 {% for item in documents %}
   <li>
-    <a href="{{ item.url }}">
+    <a class="main" href="{{ item.url }}">
       {{ item.updated }} [{{ item.category }}]  {{ item.title }}  {{ item.summary }}
     </a>
   </li>
@@ -53,7 +53,7 @@ category : index
 {% assign documents = site.media | sort: 'updated' | reverse | where:"category","Game" %}
 {% for item in documents %}
   <li>
-    <a href="{{ item.url }}">
+    <a class="main" href="{{ item.url }}">
       {{ item.updated }} [{{ item.category }}]  {{ item.title }}  {{ item.summary }}
     </a>
   </li>

@@ -15,7 +15,7 @@ category : index
 {% assign documents = site.wiki | sort: 'updated' | reverse %}
 {% for item in documents %}
   <li>
-    <a href="{{ item.url }}">
+    <a class="main" href="{{ item.url }}">
       [{{ item.category }}]  {{ item.title }}  {{ item.summary }}
     </a>
   </li>
