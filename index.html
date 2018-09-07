@@ -5,12 +5,12 @@ layout: default
 <!-- wiki -->
 <div>
   <h2>
-    <a href="/wiki/index/" style="color: #000000">Wiki</a>
+    <a class="main" href="/wiki/index/" style="color: #000000">Wiki</a>
   </h2>
 
   {% assign documents = site.wiki | sort: 'updated' | reverse %} {% for item in documents limit: 10 %}
   <li>
-    <a href="{{ item.url }}">
+    <a class="main" href="{{ item.url }}">
       [{{ item.category }}] {{ item.title }} {{ item.summary }}
     </a>
   </li>
@@ -20,11 +20,11 @@ layout: default
 <!-- media -->
 <div>
   <h2>
-    <a href="/media/index/" style="color: #000000">Media</a>
+    <a class="main" href="/media/index/" style="color: #000000">Media</a>
   </h2>
   {% assign documents = site.media | sort: 'updated' | reverse %} {% for item in documents limit: 10 %}
   <li>
-    <a href="{{ item.url }}">
+    <a class="main" href="{{ item.url }}">
       [{{ item.category }}] {{ item.title }} {{ item.summary }}
     </a>
   </li>
