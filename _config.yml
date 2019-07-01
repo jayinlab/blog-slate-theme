@@ -1,0 +1,16 @@
+# Site settings
+title: jayinlab
+description: private database
+theme: jekyll-theme-slate
+
+# Post
+permalink: none
+
+# Collections
+collections:
+  wiki:
+    output: true
+    permalink: /:collection/:path/
+    
+# Service
+google_analytics:

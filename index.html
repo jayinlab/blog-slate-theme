@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<!-- wiki -->
+<div>
+  <h2>
+    <a class="main" href="/wiki/index/" style="color: #000000">Wiki</a>
+  </h2>
+
+  {% assign documents = site.wiki | sort: 'updated' | reverse %} {% for item in documents limit: 20 %}
+  <li>
+    <a class="main" href="{{ item.url }}">
+      [{{ item.category }}] {{ item.title }} {{ item.summary }}
+    </a>
+  </li>
+  {% endfor %}
+</div>
