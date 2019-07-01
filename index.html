@@ -16,3 +16,18 @@ layout: default
   </li>
   {% endfor %}
 </div>
+
+<!-- scrap -->
+<div>
+  <h2>
+    <a class="main" href="/scrap/index/" style="color: #000000">Scrap</a>
+  </h2>
+
+  {% assign documents = site.scrap | sort: 'updated' | reverse %} {% for item in documents limit: 20 %}
+  <li>
+    <a class="main" href="{{ item.url }}">
+      [{{ item.category }}] {{ item.title }} {{ item.summary }}
+    </a>
+  </li>
+  {% endfor %}
+</div>
